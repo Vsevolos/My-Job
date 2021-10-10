@@ -1,0 +1,24 @@
+td{
+    border: green 5px solid;
+    width: 16%;
+    height: 20%;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px 0 50px 0;
+    font-family: Gemunu Libre;
+    font-family: Open Sans Condensed;
+}
+.first-td{
+    padding: 0;
+}
+table{
+    width: 100%;
+    height: 935px;
+}
+td:hover{
+    background: grey;
+}
+.image{
+    width: 70%;
+    height: 190px;
+}

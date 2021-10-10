@@ -1,0 +1,36 @@
+.article{
+    text-align: center;
+    font-family: Montserrat;
+}
+.text{
+    text-align: center;
+    font-family: Montserrat;
+    
+}
+.link{
+    margin: 20px;
+    font-family: Montserrat;
+}
+body{
+    padding: 0 400px;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 20%;
+    text-align: center;
+    
+}
+.td:hover{
+     -webkit-box-shadow: 2px 6px 11px 22px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 2px 6px 11px 22px rgba(34, 60, 80, 0.2);
+    box-shadow: 2px 6px 11px 22px rgba(34, 60, 80, 0.2);
+}
+a{
+ text-decoration:none;   
+ font-weight: 600;
+ color: black;
+ height: 100%;
+ line-height: 4500%;
+}
